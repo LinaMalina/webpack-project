@@ -1,0 +1,3 @@
+// advice actions
+export const GET_POPULAR_TACOS = 'GET_POPULAR_TACOS';
+export const GET_POPULAR_TACOS_SUCCESS = 'GET_POPULAR_TACOS_SUCCESS';
